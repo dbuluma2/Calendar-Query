@@ -1,0 +1,3840 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:nerimadaizy08@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20220924T150000Z
+DTEND:20220924T160000Z
+DTSTAMP:20231005T180723Z
+UID:0b9mnacck82se7v78v24u8as4a@google.com
+CREATED:20220924T142410Z
+LAST-MODIFIED:20220924T142410Z
+LOCATION:Frieddman room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: By stander meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221019T140000Z
+DTEND:20221019T150000Z
+DTSTAMP:20231005T180723Z
+UID:7hakf6a9a0fnio4tsf8nr9h4q8@google.com
+CREATED:20221018T131919Z
+LAST-MODIFIED:20221018T131919Z
+LOCATION:Barrett Hall\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:French Class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221205T210000Z
+DTEND:20221205T220000Z
+DTSTAMP:20231005T180723Z
+UID:03nn8rafrf2l3tik4ltcqmb042@google.com
+CREATED:20221203T160655Z
+LAST-MODIFIED:20221203T160655Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Workday Training
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H10M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221209T153000Z
+DTEND:20221209T160000Z
+DTSTAMP:20231005T180723Z
+UID:67uunldc65u8plovefbe3ht8lm@google.com
+CREATED:20221203T160756Z
+LAST-MODIFIED:20221203T160756Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting with Victoria
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221219T210000Z
+DTEND:20221219T220000Z
+DTSTAMP:20231005T180723Z
+UID:4rgm8sfdq04ppldn6evfubk5gp@google.com
+CREATED:20221217T003405Z
+DESCRIPTION:Ask about koenig scholarship
+LAST-MODIFIED:20221217T003405Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Phillis' psych study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221219T170000Z
+DTEND:20221219T180000Z
+DTSTAMP:20231005T180723Z
+UID:3t9iunkgchqt5afgq5qr3fp9ga@google.com
+CREATED:20221218T191500Z
+LAST-MODIFIED:20221218T191500Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:text Garvin about the package
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20221018T080000
+DTEND;TZID=America/New_York:20221018T100000
+RRULE:FREQ=WEEKLY;UNTIL=20230103T045959Z;BYDAY=TU
+DTSTAMP:20231005T180723Z
+UID:6om5r6st47btv5pjkfh42l2uua@google.com
+CREATED:20221018T125947Z
+LAST-MODIFIED:20230105T193141Z
+LOCATION:S.G MUDD
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:IT specialist
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:EMAIL
+ATTENDEE:mailto:nerimadaizy08@gmail.com
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20221018T113000
+DTEND;TZID=America/New_York:20221018T125000
+RRULE:FREQ=WEEKLY;UNTIL=20230103T045959Z;BYDAY=TU
+DTSTAMP:20231005T180723Z
+UID:27n5q6uj55hh1gv8d83uhqt9rs@google.com
+CREATED:20221018T130656Z
+LAST-MODIFIED:20230105T193200Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FYS(The Crowd)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20221018T130000
+DTEND;TZID=America/New_York:20221018T150000
+RRULE:FREQ=WEEKLY;UNTIL=20230103T045959Z;BYDAY=TU
+DTSTAMP:20231005T180723Z
+UID:4eq8uhr4fgl0pf4oll97mer1q8@google.com
+CREATED:20221018T130449Z
+LAST-MODIFIED:20230105T193207Z
+LOCATION:Seeley Mudd\, 31 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:IT Specialist
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20221019T080000
+DTEND;TZID=America/New_York:20221019T090000
+RRULE:FREQ=WEEKLY;UNTIL=20230104T045959Z;BYDAY=WE
+DTSTAMP:20231005T180723Z
+UID:2bofcv8ptd5jjbsanov6qs9v44@google.com
+CREATED:20221018T130846Z
+LAST-MODIFIED:20230105T193213Z
+LOCATION:Seeley Mudd\, 31 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:IT Specialist
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20221019T090000
+DTEND;TZID=America/New_York:20221019T095000
+RRULE:FREQ=WEEKLY;UNTIL=20230104T045959Z;BYDAY=WE
+DTSTAMP:20231005T180723Z
+UID:5n8mb8j2r42oejlnl27odd5k54@google.com
+CREATED:20221018T130946Z
+LAST-MODIFIED:20230105T193219Z
+LOCATION:Science Center\, Amherst College\, 25 East Dr\, Amherst\, MA 01002
+ \, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MATH 111 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230320T123000Z
+DTEND:20230320T133000Z
+DTSTAMP:20231005T180723Z
+UID:17unbsh4fscimgbjc692dina5m@google.com
+CREATED:20230118T234425Z
+LAST-MODIFIED:20230118T234425Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Google Summer of Code 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T150000Z
+DTEND:20210708T152000Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=ahmed.salat@kensap.org:mailto:ahmed.salat@kensap.org
+UID:hfc9klhaqlr1b9qn1ufj8d22pg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ahmed.
+ salat@kensap.org;X-NUM-GUESTS=0:mailto:ahmed.salat@kensap.org
+CREATED:20210704T120901Z
+DESCRIPTION:Event Name: KenSAP 2021 interviews\n\nPlease share anything tha
+ t will help prepare for our meeting.: I don't have any specific requests\n\
+ nNeed to make changes to this event?\nCancel: https://calendly.com/cancella
+ tions/GLCPJ7TO7ZTMCL5K\nReschedule: https://calendly.com/reschedulings/GLCP
+ J7TO7ZTMCL5K\n\nPowered by Calendly.com\n
+LAST-MODIFIED:20230119T164009Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Buluma Daizy Nerima and KenSAP 2021
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230209T213000Z
+DTEND:20230209T223000Z
+DTSTAMP:20231005T180723Z
+UID:6hsjlkfik9uf97als00b1bid51@google.com
+CREATED:20230203T160634Z
+LAST-MODIFIED:20230203T160634Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Data Science talk
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230221T133000Z
+DTEND:20230221T143000Z
+DTSTAMP:20231005T180723Z
+UID:3a27sva05vctk946pt1li1l2bj@google.com
+CREATED:20230204T230527Z
+LAST-MODIFIED:20230204T230527Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:tax meeting tomorrow
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230523T101500Z
+DTEND:20230523T184500Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tclli7ka9onm3t0sf3m8rclcusj2jujofuqvn26v2nt1cp8oq8es0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230429T073707Z
+DESCRIPTION:AIR FRANCE flight 814\nParis CDG 12:15pm (local time) - Nairobi
+  NBO 9:45pm (local time)\n\nConfirmation number: 22CQKU
+LAST-MODIFIED:20230429T073707Z
+LOCATION:Paris CDG
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Nairobi (AF 814)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230831T204000Z
+DTEND:20230901T040000Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t79rh6o6vqgk7emtql6g1bk6s6egmh4doaeij7basdmrsm61il6s0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230502T020828Z
+DESCRIPTION:AIR FRANCE flight 655\nDubai DXB 12:40am (local time) - Paris C
+ DG 6:00am (local time)\n\nConfirmation number: 2T4IPW
+LAST-MODIFIED:20230502T020829Z
+LOCATION:Dubai DXB
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Paris (AF 655)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230901T092000Z
+DTEND:20230901T173000Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tfgh8fkpgolphglaqedvu9rapudtb3c7dk618ct75q1vb84ar22ig
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230502T020828Z
+DESCRIPTION:AIR FRANCE flight 3616\nParis CDG 11:20am (local time) - Boston
+  BOS 1:30pm (local time)\n\nConfirmation number: 2T4IPW
+LAST-MODIFIED:20230502T020829Z
+LOCATION:Paris CDG
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Boston (AF 3616)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230522T225500Z
+DTEND:20230523T055500Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tmp64kb1sj5olg1903savn805v6kua2q95ujork5eajb50oms02k0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230202T164228Z
+DESCRIPTION:Air France flight 3663\nBoston BOS 6:55pm (local time) - Paris 
+ CDG 7:55am (local time)\n\nConfirmation number: 22CQKU
+LAST-MODIFIED:20230522T041054Z
+LOCATION:Boston BOS
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Paris (AF 3663)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230901T191500Z
+DTEND:20230901T231000Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tdqcii80q5k7pj6nu0dk4n5k100hqn7r8642ro6qlim56dks7rnhg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230720T101845Z
+DESCRIPTION:Peter Pan Bus Lines D\nConfirmation number: 6972928\n\nDepartur
+ e: Boston (Logan Airport)\, 3:15pm (local time)\nArrival: Amherst Center\, 
+ 7:10pm (local time)
+LAST-MODIFIED:20230720T101846Z
+LOCATION:Boston (Logan Airport)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bus to Amherst Center
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230817T163000Z
+DTEND:20230817T164500Z
+DTSTAMP:20231005T180723Z
+UID:otmkdo4mopdpj3kuhpjs2kqh4g@google.com
+CREATED:20230815T060959Z
+DESCRIPTION:Please join the event here - https://www.fallstackedupsummit.co
+ m/e/71cec050-1b76-11ee-b321-651b6b8f9eef?code=08261c49-23c1-4b8e-ab24-25455
+ 92efa85\nThis link is only for you. Please don't share it with others. We r
+ ecommend using a laptop or a desktop computer with the Chrome browser for t
+ he best experience.\,<br><br>\,&#128205\;: https://www.fallstackedupsummit.
+ com/e/71cec050-1b76-11ee-b321-651b6b8f9eef?code=08261c49-23c1-4b8e-ab24-254
+ 5592efa85
+LAST-MODIFIED:20230815T060959Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Welcome! - Fall Stacked Up Summit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230817T153000Z
+DTEND:20230817T163000Z
+DTSTAMP:20231005T180723Z
+UID:e3feq8k10hfc4t5d9ieo3m74rk@google.com
+CREATED:20230815T061022Z
+DESCRIPTION:Please join the event here - https://www.fallstackedupsummit.co
+ m/e/71cec050-1b76-11ee-b321-651b6b8f9eef?code=08261c49-23c1-4b8e-ab24-25455
+ 92efa85\nThis link is only for you. Please don't share it with others. We r
+ ecommend using a laptop or a desktop computer with the Chrome browser for t
+ he best experience.\,<br><br>\,&#128205\;: https://www.fallstackedupsummit.
+ com/e/71cec050-1b76-11ee-b321-651b6b8f9eef?code=08261c49-23c1-4b8e-ab24-254
+ 5592efa85
+LAST-MODIFIED:20230815T061022Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Welcome! - Fall Stacked Up Summit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230818T153000Z
+DTEND:20230818T154000Z
+DTSTAMP:20231005T180723Z
+UID:s5d2aaoac7chbpm4lrod0hj2rg@google.com
+CREATED:20230815T061250Z
+DESCRIPTION:Please join the event here - https://www.fallstackedupsummit.co
+ m/e/71cec050-1b76-11ee-b321-651b6b8f9eef?code=08261c49-23c1-4b8e-ab24-25455
+ 92efa85\nThis link is only for you. Please don't share it with others. We r
+ ecommend using a laptop or a desktop computer with the Chrome browser for t
+ he best experience.\,<br><br>\,&#128205\;: https://www.fallstackedupsummit.
+ com/e/71cec050-1b76-11ee-b321-651b6b8f9eef?code=08261c49-23c1-4b8e-ab24-254
+ 5592efa85
+LAST-MODIFIED:20230815T061250Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Welcome Day 2 - Fall Stacked Up Summit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230606T170000
+DTEND;TZID=America/Los_Angeles:20230606T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230620T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230606T170000
+DTEND;TZID=America/Los_Angeles:20230606T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230606T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230608T170000
+DTEND;TZID=America/Los_Angeles:20230608T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230608T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230613T170000
+DTEND;TZID=America/Los_Angeles:20230613T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230613T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230615T170000
+DTEND;TZID=America/Los_Angeles:20230615T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230615T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230620T170000
+DTEND;TZID=America/Los_Angeles:20230620T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230621T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230620T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230622T170000
+DTEND;TZID=America/Los_Angeles:20230622T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230623T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230622T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230627T170000
+DTEND;TZID=America/Los_Angeles:20230627T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230628T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230627T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> https://apply.code
+ path.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671<br><br><b>
+ Passcode:</b> codepath<br><br><b>Please note that the above session link wo
+ uld only be accessible 30 minutes before the start of the sessions.<br></b>
+ <br>If you have any questions or concerns\, please reach out to <a href="ma
+ ilto:support@codepath.org"><u>support@codepath.org</u></a>.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230629T170000
+DTEND;TZID=America/Los_Angeles:20230629T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230628T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230629T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230711T170000
+DTEND;TZID=America/Los_Angeles:20230711T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230628T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230711T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230713T170000
+DTEND;TZID=America/Los_Angeles:20230713T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230714T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230713T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230718T170000
+DTEND;TZID=America/Los_Angeles:20230718T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230714T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230718T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230720T170000
+DTEND;TZID=America/Los_Angeles:20230720T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230721T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230720T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230725T170000
+DTEND;TZID=America/Los_Angeles:20230725T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230721T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230725T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230727T170000
+DTEND;TZID=America/Los_Angeles:20230727T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230721T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230727T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230801T170000
+DTEND;TZID=America/Los_Angeles:20230801T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230802T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230801T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230803T170000
+DTEND;TZID=America/Los_Angeles:20230803T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230802T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230803T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230808T170000
+DTEND;TZID=America/Los_Angeles:20230808T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230809T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230808T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230810T170000
+DTEND;TZID=America/Los_Angeles:20230810T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230809T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230810T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230815T170000
+DTEND;TZID=America/Los_Angeles:20230815T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230809T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230815T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230817T170000
+DTEND;TZID=America/Los_Angeles:20230817T190000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230809T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230817T170000
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230620T170000
+DTEND;TZID=America/Los_Angeles:20230620T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230622T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230621T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230622T170000
+DTEND;TZID=America/Los_Angeles:20230622T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230627T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230623T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230627T170000
+DTEND;TZID=America/Los_Angeles:20230627T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230713T065959Z;BYDAY=TU,TH
+EXDATE;TZID=America/Los_Angeles:20230704T170000
+EXDATE;TZID=America/Los_Angeles:20230706T170000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230628T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230713T170000
+DTEND;TZID=America/Los_Angeles:20230713T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230720T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230714T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230720T170000
+DTEND;TZID=America/Los_Angeles:20230720T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230801T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230721T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230801T170000
+DTEND;TZID=America/Los_Angeles:20230801T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230808T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230802T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230808T170000
+DTEND;TZID=America/Los_Angeles:20230808T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230818T065959Z;BYDAY=TU,TH
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=c_30f90c2a4676bb1f4008b51d146a72f8d2ef0fdf816633c37d4ea6cee616
+ 9aaa@group.calendar.google.com:mailto:c_30f90c2a4676bb1f4008b51d146a72f8d2e
+ f0fdf816633c37d4ea6cee6169aaa@group.calendar.google.com
+UID:2ut1mvr392on1lbv560jquubud_R20230809T000000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nerima
+ daizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230430T182221Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Software Engineering Section 2
+  Summer 2023<br><br><b>Session Schedule: </b>Tuesdays and Thursdays at 5PM 
+ - 7PM Pacific Time (Note: Your calendar might show a different time as it f
+ ollows your local settings.)<br><br><b>Session Link:</b> <a href="https://a
+ pply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?location=5671">
+ https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea95/?locati
+ on=5671</a><br><br><b>Passcode:</b> codepath<br><br><b>Please note that the
+  above session link would only work at least a week before the start of the
+  sessions.<br></b><br>If you have any questions or concerns\, please reach 
+ out to <a href="mailto:support@codepath.org"><u>support@codepath.org</u></a
+ >.
+LAST-MODIFIED:20230815T213620Z
+LOCATION:https://apply.codepath.org/session/d31747eca154e01e5115e55cc86cea9
+ 5/?location=5671
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Software Engineering Section 2 Summer 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T163000Z
+DTEND:20230824T173000Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t01qrp25435b7dl99bqi4akgglugrdceh38joh6hkcolqmh8geq80
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230824T084055Z
+DESCRIPTION:Mercado Mexican Kitchen & Bar\nKenrail Towers\, Terrace (T) Flo
+ or\, South Wing\, Next to 9 West Building\, \nKenya\n+254 700 245795
+LAST-MODIFIED:20230824T133025Z
+LOCATION:Mercado Mexican Kitchen & Bar\, Kenrail Towers\, Terrace (T) Floor
+ \, South Wing\, Next to 9 West Building\, \nKenya
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reservation at Mercado Mexican Kitchen & Bar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230831T141000Z
+DTEND:20230831T192500Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tlc0gtlmt1i49ih2k60ol9smu6qt86bpki7037n2vbe71t595htng
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Daizy 
+ Nerima;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CLASS:PRIVATE
+CREATED:20230502T020828Z
+DESCRIPTION:Air France flight 310\nNairobi NBO 5:10pm (local time) - Dubai 
+ DXB 11:25pm (local time)\n\nConfirmation number: 2T4IPW
+LAST-MODIFIED:20230830T204238Z
+LOCATION:Nairobi NBO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Dubai (KQ 310)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230809T170000Z
+DTEND:20230809T180000Z
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=careercenter@codepath.org:mailto:careercenter@codepath.org
+UID:3lm9f1ip2lbhg0mocqbherpofa@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=immigr
+ ation.art@gmail.com;X-NUM-GUESTS=0:mailto:immigration.art@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=career
+ center@codepath.org;X-NUM-GUESTS=0:mailto:careercenter@codepath.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=josie@
+ codepath.org;X-NUM-GUESTS=0:mailto:josie@codepath.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kelsey
+ @codepath.org;X-NUM-GUESTS=0:mailto:kelsey@codepath.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=1grace
+ gong@gmail.com;X-NUM-GUESTS=0:mailto:1gracegong@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=aa
+ bdelre@hamilton.edu;X-NUM-GUESTS=0:mailto:aabdelre@hamilton.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=aanand
+ 222@gmail.com;X-NUM-GUESTS=0:mailto:aanand222@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ dibaset.bare@gmail.com;X-NUM-GUESTS=0:mailto:abdibaset.bare@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ dsalamodofin@gmail.com;X-NUM-GUESTS=0:mailto:abdsalamodofin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ hinavkhanna05@gmail.com;X-NUM-GUESTS=0:mailto:abhinavkhanna05@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ hiramyenugadhati@gmail.com;X-NUM-GUESTS=0:mailto:abhiramyenugadhati@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ ilshr1@gmail.com;X-NUM-GUESTS=0:mailto:abilshr1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ itad2015@gmail.com;X-NUM-GUESTS=0:mailto:abitad2015@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ab
+ ukhan363@gmail.com;X-NUM-GUESTS=0:mailto:abukhan363@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=adebes
+ inebunoluwa1@gmail.com;X-NUM-GUESTS=0:mailto:adebesinebunoluwa1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ah
+ enin1@swarthmore.edu;X-NUM-GUESTS=0:mailto:ahenin1@swarthmore.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=aj
+ aybalajid@gmail.com;X-NUM-GUESTS=0:mailto:ajaybalajid@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ arinaconde@gmail.com;X-NUM-GUESTS=0:mailto:akarinaconde@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ak
+ remahmed248@gmail.com;X-NUM-GUESTS=0:mailto:akremahmed248@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ isha.jadhav07@gmail.com;X-NUM-GUESTS=0:mailto:anisha.jadhav07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ap
+ ladida477@gmail.com;X-NUM-GUESTS=0:mailto:apladida477@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=as
+ eemsharma55@gmail.com;X-NUM-GUESTS=0:mailto:aseemsharma55@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ay
+ ushbudhwani41@gmail.com;X-NUM-GUESTS=0:mailto:ayushbudhwani41@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bindas
+ ujjwal@gmail.com;X-NUM-GUESTS=0:mailto:bindasujjwal@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bisrat
+ kassie@brandeis.edu;X-NUM-GUESTS=0:mailto:bisratkassie@brandeis.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bs
+ a5@calvin.edu;X-NUM-GUESTS=0:mailto:bsa5@calvin.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ iagozieani145@gmail.com;X-NUM-GUESTS=0:mailto:chiagozieani145@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ck
+ wakyeapps7@gmail.com;X-NUM-GUESTS=0:mailto:ckwakyeapps7@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ ngeom94@gmail.com;X-NUM-GUESTS=0:mailto:dangeom94@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dubem.
+ akukwe@gmail.com;X-NUM-GUESTS=0:mailto:dubem.akukwe@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=du
+ ngnguyenvanbp@gmail.com;X-NUM-GUESTS=0:mailto:dungnguyenvanbp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ lenjzh@gmail.com;X-NUM-GUESTS=0:mailto:ellenjzh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=em
+ itu.joshua33@gmail.com;X-NUM-GUESTS=0:mailto:emitu.joshua33@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=em
+ manuel.mokua@bison.howard.edu;X-NUM-GUESTS=0:mailto:emmanuel.mokua@bison.ho
+ ward.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=er
+ ajuzoqov2024@u.northwestern.edu;X-NUM-GUESTS=0:mailto:erajuzoqov2024@u.nort
+ hwestern.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fd
+ ana1@swarthmore.edu;X-NUM-GUESTS=0:mailto:fdana1@swarthmore.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=fo
+ gne38@gmail.com;X-NUM-GUESTS=0:mailto:fogne38@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ uripushp@gmail.com;X-NUM-GUESTS=0:mailto:gauripushp@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gj
+ bgpr@gmail.com;X-NUM-GUESTS=0:mailto:gjbgpr@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gt
+ ran12120@gmail.com;X-NUM-GUESTS=0:mailto:gtran12120@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ha
+ rshalreddyn@gmail.com;X-NUM-GUESTS=0:mailto:harshalreddyn@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ ngle8876@gmail.com;X-NUM-GUESTS=0:mailto:hungle8876@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ia
+ msanamehta@gmail.com;X-NUM-GUESTS=0:mailto:iamsanamehta@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ib
+ ukunoluwaadeloye@gmail.com;X-NUM-GUESTS=0:mailto:ibukunoluwaadeloye@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=il
+ lia.a.lazurenko@gmail.com;X-NUM-GUESTS=0:mailto:illia.a.lazurenko@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=je
+ na.kelbessa@gmail.com;X-NUM-GUESTS=0:mailto:jena.kelbessa@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=je
+ rrytake01@gmail.com;X-NUM-GUESTS=0:mailto:jerrytake01@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ji
+ robenandini@gmail.com;X-NUM-GUESTS=0:mailto:jirobenandini@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jm
+ 2471@princeton.edu;X-NUM-GUESTS=0:mailto:jm2471@princeton.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jn
+ avarro@caltech.edu;X-NUM-GUESTS=0:mailto:jnavarro@caltech.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ hnnyliao06@gmail.com;X-NUM-GUESTS=0:mailto:johnnyliao06@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ rdanmidawson@gmail.com;X-NUM-GUESTS=0:mailto:jordanmidawson@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ se.mauricio0226@gmail.com;X-NUM-GUESTS=0:mailto:jose.mauricio0226@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kh
+ walker@g.hmc.edu;X-NUM-GUESTS=0:mailto:khwalker@g.hmc.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kw
+ adwo.samme@gmail.com;X-NUM-GUESTS=0:mailto:kwadwo.samme@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ nawsad@gmail.com;X-NUM-GUESTS=0:mailto:lanawsad@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lh
+ oanganhquoc@gmail.com;X-NUM-GUESTS=0:mailto:lhoanganhquoc@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=libert
+ ynjabulomabhena@gmail.com;X-NUM-GUESTS=0:mailto:libertynjabulomabhena@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lm
+ qr2004@gmail.com;X-NUM-GUESTS=0:mailto:lmqr2004@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lt
+ mhlanga505@gmail.com;X-NUM-GUESTS=0:mailto:ltmhlanga505@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ rycolleengrace@gmail.com;X-NUM-GUESTS=0:mailto:marycolleengrace@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ verakuziva@gmail.com;X-NUM-GUESTS=0:mailto:maverakuziva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ xwellkumbong@gmail.com;X-NUM-GUESTS=0:mailto:maxwellkumbong@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ganyingtzu@gmail.com;X-NUM-GUESTS=0:mailto:meganyingtzu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ nsahjephthah159@gmail.com;X-NUM-GUESTS=0:mailto:mensahjephthah159@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ rcyeze1108@gmail.com;X-NUM-GUESTS=0:mailto:mercyeze1108@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mi
+ chaelbonger831@gmail.com;X-NUM-GUESTS=0:mailto:michaelbonger831@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mi
+ kedpacina@gmail.com;X-NUM-GUESTS=0:mailto:mikedpacina@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=mishra
+ pranav82@gmail.com;X-NUM-GUESTS=0:mailto:mishrapranav82@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ml7338
+ 1@email.vccs.edu;X-NUM-GUESTS=0:mailto:ml73381@email.vccs.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mo
+ moreajifolahan@gmail.com;X-NUM-GUESTS=0:mailto:momoreajifolahan@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mo
+ ydinboyevbekhzod@gmail.com;X-NUM-GUESTS=0:mailto:moydinboyevbekhzod@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ ketoicelestino2019@gmail.com;X-NUM-GUESTS=0:mailto:muketoicelestino2019@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ radovayulduz1@gmail.com;X-NUM-GUESTS=0:mailto:muradovayulduz1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ stafaeldmerdash@gmail.com;X-NUM-GUESTS=0:mailto:mustafaeldmerdash@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mv
+ 9@williams.edu;X-NUM-GUESTS=0:mailto:mv9@williams.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mw
+ idege.rosalia@gmail.com;X-NUM-GUESTS=0:mailto:mwidege.rosalia@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ beyoutadessa@gmail.com;X-NUM-GUESTS=0:mailto:nabeyoutadessa@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=narasi
+ mha.4reddy@gmail.com;X-NUM-GUESTS=0:mailto:narasimha.4reddy@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=na
+ taliia.kulieshova@gmail.com;X-NUM-GUESTS=0:mailto:nataliia.kulieshova@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nbaqq4
+ 4@gmail.com;X-NUM-GUESTS=0:mailto:nbaqq44@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nw
+ anekwup458@gmail.com;X-NUM-GUESTS=0:mailto:nwanekwup458@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nyasha
+ gwaza0@gmail.com;X-NUM-GUESTS=0:mailto:nyashagwaza0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=og
+ ennaobiora@gmail.com;X-NUM-GUESTS=0:mailto:ogennaobiora@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ok
+ aforjulia2016@gmail.com;X-NUM-GUESTS=0:mailto:okaforjulia2016@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=otisop
+ oku30@gmail.com;X-NUM-GUESTS=0:mailto:otisopoku30@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pedrob
+ orgespc@gmail.com;X-NUM-GUESTS=0:mailto:pedroborgespc@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pouder
+ 0@sewanee.edu;X-NUM-GUESTS=0:mailto:pouder0@sewanee.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ra
+ binsingh540@gmail.com;X-NUM-GUESTS=0:mailto:rabinsingh540@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rijank
+ afle20@augustana.edu;X-NUM-GUESTS=0:mailto:rijankafle20@augustana.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rl
+ haile21@ole.augie.edu;X-NUM-GUESTS=0:mailto:rlhaile21@ole.augie.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rn
+ awal@ucsd.edu;X-NUM-GUESTS=0:mailto:rnawal@ucsd.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ro
+ jinprajapati.prajapati@wmich.edu;X-NUM-GUESTS=0:mailto:rojinprajapati.praja
+ pati@wmich.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rv
+ ore31@my.fisk.edu;X-NUM-GUESTS=0:mailto:rvore31@my.fisk.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ hil.jagtap45@gmail.com;X-NUM-GUESTS=0:mailto:sahil.jagtap45@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ idaibrg@gmail.com;X-NUM-GUESTS=0:mailto:saidaibrg@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ marth252002@gmail.com;X-NUM-GUESTS=0:mailto:samarth252002@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sanska
+ rlamsal@gmail.com;X-NUM-GUESTS=0:mailto:sanskarlamsal@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ ujanya.thapaliya1@bison.howard.edu;X-NUM-GUESTS=0:mailto:saujanya.thapaliya
+ 1@bison.howard.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=senanu
+ @princeton.edu;X-NUM-GUESTS=0:mailto:senanu@princeton.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ nghoung125@gmail.com;X-NUM-GUESTS=0:mailto:senghoung125@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=su
+ nnyhuang.sc@gmail.com;X-NUM-GUESTS=0:mailto:sunnyhuang.sc@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sz
+ ainabr@gmail.com;X-NUM-GUESTS=0:mailto:szainabr@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ natswamanyakara638@gmail.com;X-NUM-GUESTS=0:mailto:tanatswamanyakara638@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ anhquangdang2002@gmail.com;X-NUM-GUESTS=0:mailto:thanhquangdang2002@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ eimoukpong@gmail.com;X-NUM-GUESTS=0:mailto:theimoukpong@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=tigist
+ adane.berhe@gmail.com;X-NUM-GUESTS=0:mailto:tigistadane.berhe@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=to
+ umijassem@gmail.com;X-NUM-GUESTS=0:mailto:toumijassem@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=va
+ sam21@ole.augie.edu;X-NUM-GUESTS=0:mailto:vasam21@ole.augie.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=va
+ su14devagarwal@gmail.com;X-NUM-GUESTS=0:mailto:vasu14devagarwal@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ve
+ oyadongha@aggies.ncat.edu;X-NUM-GUESTS=0:mailto:veoyadongha@aggies.ncat.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vi
+ neethchandha3097@gmail.com;X-NUM-GUESTS=0:mailto:vineethchandha3097@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wh
+ x3223@gmail.com;X-NUM-GUESTS=0:mailto:whx3223@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=wisdom
+ @uni.minerva.edu;X-NUM-GUESTS=0:mailto:wisdom@uni.minerva.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=yanwe
+ n_chen@ucsb.edu;X-NUM-GUESTS=0:mailto:yanwen_chen@ucsb.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ya
+ raibr99@gmail.com;X-NUM-GUESTS=0:mailto:yaraibr99@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ye
+ htutmaung21@gmail.com;X-NUM-GUESTS=0:mailto:yehtutmaung21@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yich71
+ 10@colorado.edu;X-NUM-GUESTS=0:mailto:yich7110@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ amadan@netspend.com;X-NUM-GUESTS=0:mailto:aramadan@netspend.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=re
+ miore17@gmail.com;X-NUM-GUESTS=0:mailto:remiore17@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ edamola.aluko@yahoo.com;X-NUM-GUESTS=0:mailto:adedamola.aluko@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=am
+ r.ramadan@txstate.edu;X-NUM-GUESTS=0:mailto:amr.ramadan@txstate.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ rlos.sac@outlook.com;X-NUM-GUESTS=0:mailto:carlos.sac@outlook.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cc
+ hibbamulilo@yahoo.com;X-NUM-GUESTS=0:mailto:cchibbamulilo@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ilinx@icloud.com;X-NUM-GUESTS=0:mailto:kailinx@icloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ nuelburns@chartermail.us;X-NUM-GUESTS=0:mailto:manuelburns@chartermail.us
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ms
+ hirani@syr.edu;X-NUM-GUESTS=0:mailto:mshirani@syr.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=ng.chu
+ @northeastern.edu;X-NUM-GUESTS=0:mailto:ng.chu@northeastern.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nnaeme
+ kaonyeokoro@outlook.com;X-NUM-GUESTS=0:mailto:nnaemekaonyeokoro@outlook.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ru
+ faida.9khan@gmail.com;X-NUM-GUESTS=0:mailto:rufaida.9khan@gmail.com
+CREATED:20230328T173730Z
+DESCRIPTION:Zoom registration link:<br><a href="https://us06web.zoom.us/mee
+ ting/register/tZApcOmvrDwqGtXjLdvifiUKaBVb68Baxsr_">https://us06web.zoom.us
+ /meeting/register/tZApcOmvrDwqGtXjLdvifiUKaBVb68Baxsr_</a> <br><br><a href=
+ "https://app.sli.do/event/c7BhDZtL44c7U6THKqiMRG/live/questions">SLIDO LINK
+ </a><p></p>
+LAST-MODIFIED:20230913T171451Z
+LOCATION:https://us06web.zoom.us/meeting/register/tZApcOmvrDwqGtXjLdvifiUKa
+ BVb68Baxsr_
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:International Students Webinar with Attorney Art Serratelli
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230916T230000Z
+DTEND:20230917T000000Z
+DTSTAMP:20231005T180723Z
+UID:6su89shgtpftm62d30o0u8bdoa@google.com
+CREATED:20230916T224527Z
+LAST-MODIFIED:20230916T224527Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gym
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T000000Z
+DTEND:20230917T020000Z
+DTSTAMP:20231005T180723Z
+UID:319a66atlmnri51obhk8g42sbv@google.com
+CREATED:20230916T224604Z
+LAST-MODIFIED:20230916T224604Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shower/Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T020000Z
+DTEND:20230917T030000Z
+DTSTAMP:20231005T180723Z
+UID:76bq12c8s7js01frh5bcufrqu1@google.com
+CREATED:20230916T224700Z
+LAST-MODIFIED:20230916T224700Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:android app
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T140000Z
+DTEND:20230917T160000Z
+DTSTAMP:20231005T180723Z
+UID:2g26nf9di4vs6fe7abdorkcrog@google.com
+CREATED:20230916T224917Z
+LAST-MODIFIED:20230916T224917Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Church
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T000000Z
+DTEND:20230918T010000Z
+DTSTAMP:20231005T180723Z
+UID:6ka8378jt894elorjkreajr2in@google.com
+CREATED:20230916T225401Z
+LAST-MODIFIED:20230916T225401Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:resume and codepath registration
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T180000Z
+DTEND:20230919T190000Z
+DTSTAMP:20231005T180723Z
+UID:34rd41l9csdone5ud08gipj5q9@google.com
+CREATED:20230916T225716Z
+LAST-MODIFIED:20230916T225716Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web dev Project
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T230000Z
+DTEND:20230922T000000Z
+DTSTAMP:20231005T180723Z
+UID:38t2skraehi9d1kv60qd6mlte3@google.com
+CREATED:20230917T210507Z
+LAST-MODIFIED:20230917T210507Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Oxford info session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T123000Z
+DTEND:20230918T135000Z
+DTSTAMP:20231005T180723Z
+UID:5vdhdhim7orl2p39vhsbavjkkg@google.com
+CREATED:20230921T175532Z
+LAST-MODIFIED:20230921T175538Z
+LOCATION:Barrett Hall\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spanish
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T140000Z
+DTEND:20230919T150000Z
+DTSTAMP:20231005T180723Z
+UID:25b7m16r1f0rkgsl1i3j58io7j@google.com
+CREATED:20230919T140909Z
+DESCRIPTION:Mood - 01. Woke up too early
+LAST-MODIFIED:20230921T175549Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Data Science Class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T120000Z
+DTEND:20230918T123000Z
+DTSTAMP:20231005T180723Z
+UID:4h8qemh990kueajbf8oamu1o63@google.com
+CREATED:20230921T175626Z
+LAST-MODIFIED:20230921T175635Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T150000Z
+DTEND:20230918T155000Z
+DTSTAMP:20231005T180723Z
+UID:50kduhnki48gqc9gnvrhkjr5qu@google.com
+CREATED:20230921T180040Z
+LAST-MODIFIED:20230921T180044Z
+LOCATION:Science Center\, Amherst College\, 25 East Dr\, Amherst\, MA 01002
+ \, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CS 211
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T160000Z
+DTEND:20230918T165000Z
+DTSTAMP:20231005T180723Z
+UID:3e49do8gb14ba5f7kahvdkunvr@google.com
+CREATED:20230921T180214Z
+DESCRIPTION:Skipped Class to Study
+LAST-MODIFIED:20230921T180221Z
+LOCATION:Seeley Mudd\, 31 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math 211
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T180000Z
+DTEND:20230918T200000Z
+DTSTAMP:20231005T180723Z
+UID:4uh487oge6f4no1mieupnt3bin@google.com
+CREATED:20230921T180527Z
+LAST-MODIFIED:20230921T180527Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T210000Z
+DTEND:20230918T220000Z
+DTSTAMP:20231005T180723Z
+UID:459h0skhtn3ea7krfh1pagvfgb@google.com
+CREATED:20230921T181141Z
+LAST-MODIFIED:20230921T181153Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T123000Z
+DTEND:20230920T135000Z
+DTSTAMP:20231005T180723Z
+UID:27icmr09ivrij9lhbvmu7sbkh8@google.com
+CREATED:20230921T182219Z
+LAST-MODIFIED:20230921T182224Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spanish
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T143000Z
+DTEND:20230920T153000Z
+DTSTAMP:20231005T180723Z
+UID:53cuv5sefv7a6jqki8n8ucb64d@google.com
+CREATED:20230921T182336Z
+DESCRIPTION:Not helpful
+LAST-MODIFIED:20230921T182341Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math Office Hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T150000Z
+DTEND:20230920T155000Z
+DTSTAMP:20231005T180723Z
+UID:49pr7ipatj5ahbbsh2n9va0qi0@google.com
+CREATED:20230921T182402Z
+LAST-MODIFIED:20230921T182447Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CS211
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T180000Z
+DTEND:20230920T200000Z
+DTSTAMP:20231005T180723Z
+UID:480d9maib2roo3h1prt75lol97@google.com
+CREATED:20230921T193111Z
+LAST-MODIFIED:20230921T193128Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T140000Z
+DTEND:20230921T152000Z
+DTSTAMP:20231005T180723Z
+UID:4hkmn08h0mjaerq47prruhq6ls@google.com
+CREATED:20230921T193444Z
+LAST-MODIFIED:20230921T193447Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Data Science
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T183000Z
+DTEND:20230921T192000Z
+DTSTAMP:20231005T180723Z
+UID:7i4414u2hptkfcmhkkt07djvcp@google.com
+CREATED:20230921T193746Z
+LAST-MODIFIED:20230921T193749Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spanish Discussion
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230914T110000
+DTEND;TZID=America/Los_Angeles:20230914T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230915T065959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230923T202153Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230914T110000
+DTEND;TZID=America/Los_Angeles:20230914T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230914T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230923T202153Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230915T110000
+DTEND;TZID=America/Los_Angeles:20230915T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230915T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230915T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230923T202153Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230915T110000
+DTEND;TZID=America/Los_Angeles:20230915T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230921T065959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230915T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230923T202153Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T140000Z
+DTEND:20230924T173000Z
+DTSTAMP:20231005T180723Z
+UID:7mkui38jeb4m5r3a153uu3oi54@google.com
+CREATED:20230924T174911Z
+LAST-MODIFIED:20230924T174911Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Church
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230921T110000
+DTEND;TZID=America/Los_Angeles:20230921T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230921T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230921T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230925T034238Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230922T110000
+DTEND;TZID=America/Los_Angeles:20230922T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230921T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230922T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230925T034238Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230921T110000
+DTEND;TZID=America/Los_Angeles:20230921T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230928T065959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230921T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230925T034238Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T220000Z
+DTEND:20230928T230000Z
+DTSTAMP:20231005T180723Z
+UID:5i7va1c8bhktqkqv0tab9oh4s6@google.com
+CREATED:20230927T180000Z
+LAST-MODIFIED:20230927T180000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ta hours
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T210000Z
+DTEND:20230927T220000Z
+DTSTAMP:20231005T180723Z
+UID:1nvjpcad8fab1um5lfnesc80ei@google.com
+CREATED:20230927T203813Z
+LAST-MODIFIED:20230927T203813Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T230000Z
+DTEND:20230928T001500Z
+DTSTAMP:20231005T180723Z
+UID:2r6iei5fv9ml8v85tcs3igojuv@google.com
+CREATED:20230927T203833Z
+LAST-MODIFIED:20230927T203918Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:gym
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230928T110000
+DTEND;TZID=America/Los_Angeles:20230928T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230928T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230928T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230927T215750Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230928T110000
+DTEND;TZID=America/Los_Angeles:20230928T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230929T065959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230928T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20230927T215750Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T230000Z
+DTEND:20230927T000000Z
+DTSTAMP:20231005T180723Z
+UID:7kuo8kf4j328i1iakv6g1u6f8r@google.com
+CREATED:20230928T140838Z
+LAST-MODIFIED:20230928T140838Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gym
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T120000Z
+DTEND:20230917T130000Z
+DTSTAMP:20231005T180723Z
+UID:67q29r0negrn4sikm866leocfv@google.com
+CREATED:20230921T174840Z
+DESCRIPTION:5
+LAST-MODIFIED:20230928T143643Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T160000Z
+DTEND:20230917T170000Z
+DTSTAMP:20231005T180723Z
+UID:61jdv7hggs8cg6dg04cl7hkrs9@google.com
+CREATED:20230921T175022Z
+DESCRIPTION:5
+LAST-MODIFIED:20230928T143701Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T180000Z
+DTEND:20230917T220000Z
+DTSTAMP:20231005T180723Z
+UID:4crct29pc7hktjobe284hqogcr@google.com
+CREATED:20230916T225001Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20230928T143725Z
+LOCATION:Morris Pratt Hall\, 11 Noah Webster Cir\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T200000Z
+DTEND:20230917T210000Z
+DTSTAMP:20231005T180723Z
+UID:7muc5lcn45mpl47m8m27l69tae@google.com
+CREATED:20230921T175222Z
+DESCRIPTION:2
+LAST-MODIFIED:20230928T143741Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230917T213000Z
+DTEND:20230918T010000Z
+DTSTAMP:20231005T180723Z
+UID:0ht08n89v3segapsu73588pi6n@google.com
+CREATED:20230921T174654Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20230928T143806Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T000000Z
+DTEND:20230918T010000Z
+DTSTAMP:20231005T180723Z
+UID:01nbt5ssmih96v2a8nd83dsp0k@google.com
+CREATED:20230921T175322Z
+DESCRIPTION:2
+LAST-MODIFIED:20230928T143821Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230929T110000
+DTEND;TZID=America/Los_Angeles:20230929T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230929T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230929T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231005T110000
+DTEND;TZID=America/Los_Angeles:20231005T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231005T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20231005T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231006T110000
+DTEND;TZID=America/Los_Angeles:20231006T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231005T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20231006T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231102T110000
+DTEND;TZID=America/Los_Angeles:20231102T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231102T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20231102T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230929T110000
+DTEND;TZID=America/Los_Angeles:20230929T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231005T065959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20230929T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231005T110000
+DTEND;TZID=America/Los_Angeles:20231005T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231102T065959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231005T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231102T110000
+DTEND;TZID=America/Los_Angeles:20231102T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231121T075959Z;BYDAY=TH,FR
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231102T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231001T191254Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T140000Z
+DTEND:20230918T150000Z
+DTSTAMP:20231005T180723Z
+UID:0fddhssuill9h0j1n7989c1r6s@google.com
+CREATED:20230921T175902Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231002T005020Z
+LOCATION:Science Center\, Amherst College\, 25 East Dr\, Amherst\, MA 01002
+ \, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T160000Z
+DTEND:20230918T170000Z
+DTSTAMP:20231005T180723Z
+UID:33sifcre60c6l6sn3d8lm43cum@google.com
+CREATED:20230921T180425Z
+DESCRIPTION:1
+LAST-MODIFIED:20231002T005052Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T160000Z
+DTEND:20230918T165000Z
+DTSTAMP:20231005T180723Z
+UID:324seh8nukq0b0lghr7648qo9g@google.com
+CREATED:20230921T180255Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231002T005103Z
+LOCATION:Science Center\, Amherst College\, 25 East Dr\, Amherst\, MA 01002
+ \, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T140000Z
+DTEND:20230918T150000Z
+DTSTAMP:20231005T180723Z
+UID:273fb1hepfa8hk5sq3i15gvp04@google.com
+CREATED:20230921T175752Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231002T005159Z
+LOCATION:Science Center\, Amherst College\, 25 East Dr\, Amherst\, MA 01002
+ \, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T160000Z
+DTEND:20230918T165000Z
+DTSTAMP:20231005T180723Z
+UID:7lg8kdnhn4k9a5mrt165i0ouls@google.com
+CREATED:20230921T181048Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231002T005214Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T200000Z
+DTEND:20230918T210000Z
+DTSTAMP:20231005T180723Z
+UID:6itodk7sg1opj8rnlrpqfdhtv5@google.com
+CREATED:20230921T180937Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T005252Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T200000Z
+DTEND:20230918T210000Z
+DTSTAMP:20231005T180723Z
+UID:5j0n3nknftkb9pctoid91g6ju6@google.com
+CREATED:20230921T180908Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T005310Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T200000Z
+DTEND:20230918T210000Z
+DTSTAMP:20231005T180723Z
+UID:1d429klhcjd5spoorn93q4qv58@google.com
+CREATED:20230921T180815Z
+DESCRIPTION:2
+LAST-MODIFIED:20231002T005323Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T220000Z
+DTEND:20230919T020000Z
+DTSTAMP:20231005T180723Z
+UID:6kil1po26jqmp0i0q58p5e6r48@google.com
+CREATED:20230921T181207Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T005342Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T230000Z
+DTEND:20230919T020000Z
+DTSTAMP:20231005T180723Z
+UID:6c5r2cl9ho1dnhlheinairceeb@google.com
+CREATED:20230921T181338Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T005353Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T023000Z
+DTEND:20230919T034500Z
+DTSTAMP:20231005T180723Z
+UID:7lnm1p9n45skq88mjqu530ja6a@google.com
+CREATED:20230921T181450Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T005435Z
+LOCATION:Morris Pratt Hall\, 11 Noah Webster Cir\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T140000Z
+DTEND:20230920T150000Z
+DTSTAMP:20231005T180723Z
+UID:4lul3hlf6psk2gqi5okf3klgbn@google.com
+CREATED:20230921T182145Z
+DESCRIPTION:3
+LAST-MODIFIED:20231002T010045Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T160000Z
+DTEND:20230920T170000Z
+DTSTAMP:20231005T180723Z
+UID:51srpu1pdu3vuae68cmfp58q24@google.com
+CREATED:20230921T182537Z
+DESCRIPTION:2
+LAST-MODIFIED:20231002T010100Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T183000Z
+DTEND:20230920T193000Z
+DTSTAMP:20231005T180723Z
+UID:6v4aou0pip0han35rflgdog8vp@google.com
+CREATED:20230921T193322Z
+DESCRIPTION:3
+LAST-MODIFIED:20231002T010112Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T203000Z
+DTEND:20230921T010000Z
+DTSTAMP:20231005T180723Z
+UID:4bu9rtnbhsvvjkb08pkukl33n0@google.com
+CREATED:20230921T193208Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T010123Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T213000Z
+DTEND:20230921T010000Z
+DTSTAMP:20231005T180723Z
+UID:6jrpme59b746ubcin4ucfjt0t8@google.com
+CREATED:20230921T193255Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T010132Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T000000Z
+DTEND:20230921T010000Z
+DTSTAMP:20231005T180723Z
+UID:5g4nun6khj06u0bo22aibvf3n7@google.com
+CREATED:20230921T193350Z
+DESCRIPTION:2
+LAST-MODIFIED:20231002T010142Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T143000Z
+DTEND:20230921T153000Z
+DTSTAMP:20231005T180723Z
+UID:66l4n0ndh7ttb6g7ioq8587u43@google.com
+CREATED:20230921T193506Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T010238Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T160000Z
+DTEND:20230921T180000Z
+DTSTAMP:20231005T180723Z
+UID:1be3u3m3civiu6f2u4n8m39qg1@google.com
+CREATED:20230921T193623Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T010248Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T163000Z
+DTEND:20230921T183000Z
+DTSTAMP:20231005T180723Z
+UID:1hqhb56vhbobb2fhgl9cm9p85m@google.com
+CREATED:20230921T193657Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231002T010302Z
+LOCATION:Frost Library\, 61 Quadrangle Dr\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T200000Z
+DTEND:20230921T210000Z
+DTSTAMP:20231005T180723Z
+UID:7l1ceurehh1fhq34jctm7bhp6j@google.com
+CREATED:20230921T195251Z
+DESCRIPTION:4
+LAST-MODIFIED:20231002T010351Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230922T004500Z
+DTEND:20230922T034500Z
+DTSTAMP:20231005T180723Z
+UID:1a5u6ekkb6umbog4j5ck8p0sck@google.com
+CREATED:20231002T010449Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T010449Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230922T011500Z
+DTEND:20230922T044500Z
+DTSTAMP:20231005T180723Z
+UID:1rev47diaqtskb78727i5svvd2@google.com
+CREATED:20231002T010540Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T010540Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230922T000000Z
+DTEND:20230922T010000Z
+DTSTAMP:20231005T180723Z
+UID:1k3e6rbmgjp4futr4dkl0ul082@google.com
+CREATED:20231002T010602Z
+DESCRIPTION:1
+LAST-MODIFIED:20231002T010602Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230922T120000Z
+DTEND:20230922T130000Z
+DTSTAMP:20231005T180723Z
+UID:13gucbrkt4bkhp0nic6v979cjp@google.com
+CREATED:20231002T010632Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T010632Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230922T163000Z
+DTEND:20230922T173000Z
+DTSTAMP:20231005T180723Z
+UID:37qhods8ld3f5cadb6dvu2dkt7@google.com
+CREATED:20231002T010641Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T010641Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230922T213000Z
+DTEND:20230922T223000Z
+DTSTAMP:20231005T180723Z
+UID:1ps4rs82mk4q7il3u5vma1ubv6@google.com
+CREATED:20231002T010654Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T010654Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T173000Z
+DTEND:20230924T183000Z
+DTSTAMP:20231005T180723Z
+UID:4i1cm694v8o3vcnn9ps49d21hj@google.com
+CREATED:20231002T010802Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T010802Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T230000Z
+DTEND:20230925T000000Z
+DTSTAMP:20231005T180723Z
+UID:1q5vgs6o42c8j7nrktk3p2g19u@google.com
+CREATED:20231002T010811Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T010811Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T183000Z
+DTEND:20230926T220000Z
+DTSTAMP:20231005T180723Z
+UID:0gj1ok7a4qk42tuqcbhnlhg9nh@google.com
+CREATED:20230928T140824Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231002T010854Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T140000Z
+DTEND:20230929T150000Z
+DTSTAMP:20231005T180723Z
+UID:1mt6umuhed1im38i9gjmjoifgm@google.com
+CREATED:20231002T011137Z
+DESCRIPTION:5
+LAST-MODIFIED:20231002T011137Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T170000Z
+DTEND:20230929T180000Z
+DTSTAMP:20231005T180723Z
+UID:6s9bgmqkh8a86b6ng5anj48tl1@google.com
+CREATED:20231002T011147Z
+DESCRIPTION:4
+LAST-MODIFIED:20231002T011147Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T213000Z
+DTEND:20230929T223000Z
+DTSTAMP:20231005T180723Z
+UID:74k8p1tj96f4njfuos328j3por@google.com
+CREATED:20231002T011155Z
+DESCRIPTION:4
+LAST-MODIFIED:20231002T011155Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T200000Z
+DTEND:20230927T210000Z
+DTSTAMP:20231005T180723Z
+UID:5ba1jli7n97qu3umtccarfunbg@google.com
+CREATED:20230927T203801Z
+DESCRIPTION:3
+LAST-MODIFIED:20231002T011348Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T173000Z
+DTEND:20230926T183000Z
+DTSTAMP:20231005T180723Z
+UID:7lf8blsr14tm360202f7min0u6@google.com
+CREATED:20230928T140741Z
+DESCRIPTION:1
+LAST-MODIFIED:20231002T011454Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T010000Z
+DTEND:20230926T020000Z
+DTSTAMP:20231005T180723Z
+UID:4b0c2ugg8i6r1095rvur6tl0je@google.com
+CREATED:20230928T140705Z
+DESCRIPTION:2
+LAST-MODIFIED:20231002T011505Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230925T210000Z
+DTEND:20230925T220000Z
+DTSTAMP:20231005T180723Z
+UID:15u5a6rtuadgpqi6l5jepnms6c@google.com
+CREATED:20230928T140632Z
+DESCRIPTION:2
+LAST-MODIFIED:20231002T011513Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T140000Z
+DTEND:20230926T150000Z
+DTSTAMP:20231005T180723Z
+UID:1ku1a1cvpvgtl7gvqudl1272o3@google.com
+CREATED:20230928T140725Z
+DESCRIPTION:1
+LAST-MODIFIED:20231002T011544Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T140000Z
+DTEND:20230924T150000Z
+DTSTAMP:20231005T180723Z
+UID:1l8ts4e63o8v6assp5pt51lgfr@google.com
+CREATED:20230924T174846Z
+DESCRIPTION:3
+LAST-MODIFIED:20231002T011609Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T180000Z
+DTEND:20230924T220000Z
+DTSTAMP:20231005T180723Z
+UID:5cgshgcu423a8ik20h0smmq1dj@google.com
+CREATED:20230924T175007Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T011620Z
+LOCATION:Morris Pratt Hall\, 11 Noah Webster Cir\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T180000Z
+DTEND:20230926T220000Z
+DTSTAMP:20231005T180723Z
+UID:2upn46db771lhijf40g10r1d21@google.com
+CREATED:20230928T140807Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231002T011631Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T010000Z
+DTEND:20230927T033000Z
+DTSTAMP:20231005T180723Z
+UID:2ijtkbmphltarrn4nieeggbqfe@google.com
+CREATED:20230928T140918Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T011642Z
+LOCATION:Morris Pratt Hall\, 11 Noah Webster Cir\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T230000Z
+DTEND:20230930T020000Z
+DTSTAMP:20231005T180723Z
+UID:5hgf5d67b38v75el4qm3f8o1ec@google.com
+CREATED:20231002T011229Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T011715Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T220000Z
+DTEND:20230927T230000Z
+DTSTAMP:20231005T180723Z
+UID:5pb0chfns5pc9nlugp4kk1a7iu@google.com
+CREATED:20230927T203905Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231002T013352Z
+LOCATION:Morris Pratt Hall\, 11 Noah Webster Cir\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231012T110000
+DTEND;TZID=America/Los_Angeles:20231012T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231005T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20231012T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231003T175257Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20231013T110000
+DTEND;TZID=America/Los_Angeles:20231013T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:3hb8jnn2al7ac5aaom5c890fhb_R20231005T180000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20231013T110000
+CREATED:20230908T035900Z
+DESCRIPTION:<b>Agenda:</b> WEB101 OFFICE HOURS - Fall 2023<br><br><b>Regist
+ ration Link:</b> <a href="https://us06web.zoom.us/j/82619374110">https://us
+ 06web.zoom.us/j/82619374110</a><br><br><b>Meeting ID:</b> 826 1937 4110<br>
+ <br><b>Passcode:</b> codepath<br><br>If you have any questions or concerns\
+ , please reach out to <a href="mailto:support@codepath.org"><u>support@code
+ path.org</u></a>.<ul></ul>
+LAST-MODIFIED:20231003T175257Z
+LOCATION:https://us06web.zoom.us/j/82619374110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WEB101 OFFICE HOURS - Fall 2023 [OPTIONAL]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230916T100000
+DTEND;TZID=America/Los_Angeles:20230916T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20230930T065959Z;BYDAY=SA
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:66micat1kc2vt96103jvl502ci@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230811T063114Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Web Development Section 2 Fall
+  2023<br><br><b>Session Schedule:</b> Saturdays at 10AM - 12PM Pacific Time
+  (<i>Note:</i> <i>Your calendar might show a different time as it follows y
+ our local settings.)<br></i><br><b>Session Link:</b> <b><a href="https://ap
+ ply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?location=5967">h
+ ttps://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?locatio
+ n=5967</a></b><br><br><b>Passcode:</b> codepath<br><br><b>Please note that 
+ the above session link will only be accessible 30 minutes before the start 
+ of the sessions.</b><br><br>If you have any questions or concerns\, please 
+ reach out to <a href="mailto:support@codepath.org">support@codepath.org</a>
+ .
+LAST-MODIFIED:20231005T043310Z
+LOCATION:https://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856ad
+ b/?location=5967
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Web Development Section 2 Fall 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230916T100000
+DTEND;TZID=America/Los_Angeles:20230916T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:66micat1kc2vt96103jvl502ci@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230916T100000
+CREATED:20230811T063114Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Web Development Section 2 Fall
+  2023<br><br><b>Session Schedule:</b> Saturdays at 10AM - 12PM Pacific Time
+  (<i>Note:</i> <i>Your calendar might show a different time as it follows y
+ our local settings.)<br></i><br><b>Session Link:</b> <b><a href="https://ap
+ ply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?location=5967">h
+ ttps://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?locatio
+ n=5967</a></b><br><br><b>Passcode:</b> codepath<br><br><b>Please note that 
+ the above session link will only be accessible 30 minutes before the start 
+ of the sessions.</b><br><br>If you have any questions or concerns\, please 
+ reach out to <a href="mailto:support@codepath.org">support@codepath.org</a>
+ .
+LAST-MODIFIED:20231005T043310Z
+LOCATION:https://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856ad
+ b/?location=5967
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Web Development Section 2 Fall 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230923T100000
+DTEND;TZID=America/Los_Angeles:20230923T120000
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:66micat1kc2vt96103jvl502ci@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20230923T100000
+CREATED:20230811T063114Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Web Development Section 2 Fall
+  2023<br><br><b>Session Schedule:</b> Saturdays at 10AM - 12PM Pacific Time
+  (<i>Note:</i> <i>Your calendar might show a different time as it follows y
+ our local settings.)<br></i><br><b>Session Link:</b> <b><a href="https://ap
+ ply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?location=5967">h
+ ttps://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?locatio
+ n=5967</a></b><br><br><b>Passcode:</b> codepath<br><br><b>Please note that 
+ the above session link will only be accessible 30 minutes before the start 
+ of the sessions.</b><br><br>If you have any questions or concerns\, please 
+ reach out to <a href="mailto:support@codepath.org">support@codepath.org</a>
+ .
+LAST-MODIFIED:20231005T043310Z
+LOCATION:https://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856ad
+ b/?location=5967
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Web Development Section 2 Fall 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20230930T100000
+DTEND;TZID=America/Los_Angeles:20230930T120000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA
+DTSTAMP:20231005T180723Z
+ORGANIZER;CN=thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goog
+ le.com:mailto:thecodepath.com_087v84gffmsl5m7lbnq8kfio4o@group.calendar.goo
+ gle.com
+UID:66micat1kc2vt96103jvl502ci_R20230930T170000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ne
+ rimadaizy08@gmail.com;X-NUM-GUESTS=0:mailto:nerimadaizy08@gmail.com
+CREATED:20230811T063114Z
+DESCRIPTION:<b>Agenda:</b> CodePath Intro to Web Development Section 2 Fall
+  2023<br><br><b>Session Schedule:</b> Saturdays at 10AM - 12PM Pacific Time
+  (<i>Note:</i> <i>Your calendar might show a different time as it follows y
+ our local settings.)<br></i><br><b>Session Link:</b> <b><a href="https://ap
+ ply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?location=5967">h
+ ttps://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856adb/?locatio
+ n=5967</a></b><br><br><b>Passcode:</b> codepath<br><br><b>Please note that 
+ the above session link will only be accessible 30 minutes before the start 
+ of the sessions.</b><br><br>If you have any questions or concerns\, please 
+ reach out to <a href="mailto:support@codepath.org">support@codepath.org</a>
+ .
+LAST-MODIFIED:20231005T043310Z
+LOCATION:https://apply.codepath.org/session/b0431d16e22f817c0f2bb650ae856ad
+ b/?location=5967
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CodePath Intro to Web Development Section 2 Fall 2023
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T203000Z
+DTEND:20230919T230000Z
+DTSTAMP:20231005T180723Z
+UID:6q9pi2h39sie1peiogqnjs63jv@google.com
+CREATED:20231005T163334Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T163343Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STUDY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T204500Z
+DTEND:20230919T231500Z
+DTSTAMP:20231005T180723Z
+UID:445b2b1n4ft0npqgfmfmm04ova@google.com
+CREATED:20231005T163447Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T163507Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T000000Z
+DTEND:20230920T020000Z
+DTSTAMP:20231005T180723Z
+UID:51bdc82t94mp1q9k5jec9rnqim@google.com
+CREATED:20231005T163548Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T163548Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T200000Z
+DTEND:20230919T210000Z
+DTSTAMP:20231005T180723Z
+UID:6dmqusvta3tkt6o4ng2rb6jsf1@google.com
+CREATED:20231005T163638Z
+DESCRIPTION:2
+LAST-MODIFIED:20231005T163638Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230918T120000Z
+DTEND:20230918T130000Z
+DTSTAMP:20231005T180723Z
+UID:0t8lpuqlidl376tkqhb94c3s3i@google.com
+CREATED:20230921T175429Z
+DESCRIPTION:1
+LAST-MODIFIED:20231005T163648Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T000000Z
+DTEND:20230919T010000Z
+DTSTAMP:20231005T180723Z
+UID:5m3mrr6tljv04q064q9uh8330o@google.com
+CREATED:20230921T181904Z
+DESCRIPTION:2
+LAST-MODIFIED:20231005T163708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T120000Z
+DTEND:20230919T130000Z
+DTSTAMP:20231005T180723Z
+UID:3nq79qcu35r1t0a8u650ctk3r1@google.com
+CREATED:20230921T181746Z
+DESCRIPTION:1
+LAST-MODIFIED:20231005T163724Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T160000Z
+DTEND:20230919T170000Z
+DTSTAMP:20231005T180723Z
+UID:4j4mmjnpbutgf6cq5enag40knh@google.com
+CREATED:20231005T163621Z
+DESCRIPTION:2
+LAST-MODIFIED:20231005T163730Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T003000Z
+DTEND:20230920T013000Z
+DTSTAMP:20231005T180723Z
+UID:2lijaagg2ibgg1bjk4tfhuod6c@google.com
+CREATED:20231005T163745Z
+DESCRIPTION:2
+LAST-MODIFIED:20231005T163745Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T120000Z
+DTEND:20230920T130000Z
+DTSTAMP:20231005T180723Z
+UID:1i9oi3jlr88v1cpphrl7mn25j0@google.com
+CREATED:20230921T181654Z
+DESCRIPTION:3
+LAST-MODIFIED:20231005T163807Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T120000Z
+DTEND:20230921T130000Z
+DTSTAMP:20231005T180723Z
+UID:0s7fgbgl3rhnrp4k8tkloie67h@google.com
+CREATED:20230921T193419Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T163900Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230921T180000Z
+DTEND:20230921T190000Z
+DTSTAMP:20231005T180723Z
+UID:2hv19v31vdkbmt1k6l891dvo82@google.com
+CREATED:20230921T193719Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T163912Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230923T120000Z
+DTEND:20230923T130000Z
+DTSTAMP:20231005T180723Z
+UID:559p219p7qj1tp4fafskgpdimg@google.com
+CREATED:20231005T164009Z
+DESCRIPTION:5
+LAST-MODIFIED:20231005T164009Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230923T163000Z
+DTEND:20230923T173000Z
+DTSTAMP:20231005T180723Z
+UID:0op9mun3r3c7mc8tpt6ckin0dj@google.com
+CREATED:20231005T164021Z
+DESCRIPTION:5
+LAST-MODIFIED:20231005T164021Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230923T213000Z
+DTEND:20230923T223000Z
+DTSTAMP:20231005T180723Z
+UID:7d42p187aa7jfi1tccs0nqq38a@google.com
+CREATED:20231005T164028Z
+DESCRIPTION:5
+LAST-MODIFIED:20231005T164028Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T013000Z
+DTEND:20230924T023000Z
+DTSTAMP:20231005T180723Z
+UID:4uiajaq7s437jr249nrstoi3qg@google.com
+CREATED:20231005T164036Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T164036Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230923T190000Z
+DTEND:20230923T230000Z
+DTSTAMP:20231005T180723Z
+UID:0s2j7o7k9ss039pokhl8ms4l8v@google.com
+CREATED:20231005T164135Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T164135Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T223000Z
+DTEND:20230927T224500Z
+DTSTAMP:20231005T180723Z
+UID:1hmctoun0r5m18k9dv441f46at@google.com
+CREATED:20230928T140512Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T164251Z
+LOCATION:Morris Pratt Hall\, 11 Noah Webster Cir\, Amherst\, MA 01002\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230925T020000Z
+DTEND:20230925T030000Z
+DTSTAMP:20231005T180723Z
+UID:7cta1ljr12uv3e6n3gafneeej6@google.com
+CREATED:20231005T164315Z
+DESCRIPTION:2
+LAST-MODIFIED:20231005T164315Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230925T173000Z
+DTEND:20230925T183000Z
+DTSTAMP:20231005T180723Z
+UID:7ne4ljv0jtg72oumi9r74nggip@google.com
+CREATED:20230928T140614Z
+DESCRIPTION:1
+LAST-MODIFIED:20231005T164325Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T000000Z
+DTEND:20230926T020000Z
+DTSTAMP:20231005T180723Z
+UID:3manpord1qmrjc3racc7ujleqa@google.com
+CREATED:20231005T164420Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T164420Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T000000Z
+DTEND:20230928T020000Z
+DTSTAMP:20231005T180723Z
+UID:24bt8j1j0hvt3g64q1tif6qgh5@google.com
+CREATED:20231005T164545Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T164545Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T000000Z
+DTEND:20230928T020000Z
+DTSTAMP:20231005T180723Z
+UID:7hfq2c22176e8okavnllr8l8ut@google.com
+CREATED:20231005T164616Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T164627Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T160000Z
+DTEND:20230928T180000Z
+DTSTAMP:20231005T180723Z
+UID:1fcrb0v52i1aa3i9r6jdtkvq6d@google.com
+CREATED:20231005T164728Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T164743Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T160000Z
+DTEND:20230928T180000Z
+DTSTAMP:20231005T180723Z
+UID:57kh324ft802sn4fhtg31hfl9g@google.com
+CREATED:20231005T164816Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T164816Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230930T190000Z
+DTEND:20230930T230000Z
+DTSTAMP:20231005T180723Z
+UID:6nhs9jnpfvqc01ks3l82g5s5of@google.com
+CREATED:20231005T165448Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T165448Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230930T200000Z
+DTEND:20230930T230000Z
+DTSTAMP:20231005T180723Z
+UID:1lh3c7notq6s5vk03nlhpvlo31@google.com
+CREATED:20231005T165517Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T165517Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T010000Z
+DTEND:20230929T034500Z
+DTSTAMP:20231005T180723Z
+UID:5atfgohklj09b7rr19f1injbnh@google.com
+CREATED:20231005T165707Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T165707Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T020000Z
+DTEND:20230929T034500Z
+DTSTAMP:20231005T180723Z
+UID:4menb0ffnbk7e6sgokq9df134e@google.com
+CREATED:20231005T165739Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T165751Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+DTSTAMP:20231005T180723Z
+UID:2qndaflbsoh62tvhcgv0qdl16e@google.com
+CREATED:20231005T165851Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T165851Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230925T140000Z
+DTEND:20230925T150000Z
+DTSTAMP:20231005T180723Z
+UID:03ftobjphkij4ipline6h5ltcs@google.com
+CREATED:20230928T140553Z
+DESCRIPTION:1
+LAST-MODIFIED:20231005T165936Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T000000Z
+DTEND:20230927T010000Z
+DTSTAMP:20231005T180723Z
+UID:3mdudkbckgtabviotdd3e5q7fd@google.com
+CREATED:20231005T165957Z
+DESCRIPTION:3
+LAST-MODIFIED:20231005T165957Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T140000Z
+DTEND:20230927T150000Z
+DTSTAMP:20231005T180723Z
+UID:1gorg521pff07n5u8ft7o59pi9@google.com
+CREATED:20231002T011403Z
+DESCRIPTION:3
+LAST-MODIFIED:20231005T170013Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T003000Z
+DTEND:20230928T013000Z
+DTSTAMP:20231005T180723Z
+UID:6gvin8t6i2uv6m435n9v80l15p@google.com
+CREATED:20230928T140654Z
+DESCRIPTION:3
+LAST-MODIFIED:20231005T170031Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T140000Z
+DTEND:20230928T150000Z
+DTSTAMP:20231005T180723Z
+UID:619hk76o8731m3bfssj02a0fug@google.com
+CREATED:20230928T141352Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T170053Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T173000Z
+DTEND:20230928T183000Z
+DTSTAMP:20231005T180723Z
+UID:3gc90ngc3hcih2q2f33h70cjp0@google.com
+CREATED:20231002T011109Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T170100Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230928T210000Z
+DTEND:20230928T220000Z
+DTSTAMP:20231005T180723Z
+UID:1e4at3gchhfee1hsi16hrn2mml@google.com
+CREATED:20231002T011127Z
+DESCRIPTION:3
+LAST-MODIFIED:20231005T170107Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T003000Z
+DTEND:20230929T013000Z
+DTSTAMP:20231005T180723Z
+UID:5h9h6cr183qvk3ip3rvs0sa6qe@google.com
+CREATED:20231005T170116Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T170116Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230930T023000Z
+DTEND:20230930T033000Z
+DTSTAMP:20231005T180723Z
+UID:7nt2hmoec1ojhkipa47mjlrmv4@google.com
+CREATED:20231005T170136Z
+DESCRIPTION:5
+LAST-MODIFIED:20231005T170136Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230930T143000Z
+DTEND:20230930T153000Z
+DTSTAMP:20231005T180723Z
+UID:25tus559ta14q1l3kchp31mj6r@google.com
+CREATED:20231005T170145Z
+DESCRIPTION:5
+LAST-MODIFIED:20231005T170145Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230930T190000Z
+DTEND:20230930T200000Z
+DTSTAMP:20231005T180723Z
+UID:0eg6001dk5tvko7qjd9ddnp23e@google.com
+CREATED:20231005T170159Z
+DESCRIPTION:5
+LAST-MODIFIED:20231005T170159Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231001T003000Z
+DTEND:20231001T013000Z
+DTSTAMP:20231005T180723Z
+UID:3mj2gei5i6ffbcr75ar17gtg72@google.com
+CREATED:20231005T170206Z
+DESCRIPTION:4
+LAST-MODIFIED:20231005T170206Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231001T023000Z
+DTEND:20231001T033000Z
+DTSTAMP:20231005T180723Z
+UID:7u1o10ivphfpheohi8421vc0qb@google.com
+CREATED:20231005T170225Z
+DESCRIPTION:3
+LAST-MODIFIED:20231005T170225Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mood
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230919T023000Z
+DTEND:20230919T034500Z
+DTSTAMP:20231005T180723Z
+UID:2atlcj9t5m31gusj7h5vu879aq@google.com
+CREATED:20230921T181600Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T172738Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230924T190000Z
+DTEND:20230924T223000Z
+DTSTAMP:20231005T180723Z
+UID:71gfgtsqsiuo6bpq1g6ehg2qd3@google.com
+CREATED:20230928T141431Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T172836Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230927T020000Z
+DTEND:20230927T033000Z
+DTSTAMP:20231005T180723Z
+UID:5aiol3t6vuof199mars8r3vbai@google.com
+CREATED:20231002T011028Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T172959Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230929T230000Z
+DTEND:20230930T013000Z
+DTSTAMP:20231005T180723Z
+UID:0k72990vtvqe4pe228qfrsvl7v@google.com
+CREATED:20231002T011312Z
+DESCRIPTION:Morris Pratt
+LAST-MODIFIED:20231005T173216Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T003000Z
+DTEND:20230926T013000Z
+DTSTAMP:20231005T180723Z
+UID:61dqte98ql0b2m0lpe4ep47sum@google.com
+CREATED:20231005T164449Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T175334Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T000000Z
+DTEND:20230920T030000Z
+DTSTAMP:20231005T180723Z
+UID:75qsk4c858v6n516era003c3lm@google.com
+CREATED:20231005T163608Z
+DESCRIPTION:Frost Library
+LAST-MODIFIED:20231005T175623Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230925T000000Z
+DTEND:20230925T020000Z
+DTSTAMP:20231005T180723Z
+UID:226e55gv36gejdk2hs5j3j3om1@google.com
+CREATED:20231005T165908Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T180437Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230923T191500Z
+DTEND:20230923T230000Z
+DTSTAMP:20231005T180723Z
+UID:598of2l8fukb7spob589u34lh3@google.com
+CREATED:20231005T164205Z
+DESCRIPTION:Science Center
+LAST-MODIFIED:20231005T180700Z
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Actual Studying
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
