@@ -148,11 +148,6 @@ mycal <-
 # Results <!-- rename/delete as desired -->
 # Part 1 : Study Hours and Mood <!-- rename/delete as desired -->
 <!--
-This is where you talk about the results you found! (About 3-5 paragraphs)
-
-You may organize your results however you see fit. Some may choose to answer each original question in order and refer to whichever visualizations help shed light on each question (this is probably a more natural approach). Others may choose to separately discuss each visualization and table in order and what information each object conveys. 
-
-Each visualization and table should have its own code chunk, and the results should be displayed as close as possible to where it's referenced in your narration. 
 -->
 
 
@@ -296,24 +291,8 @@ One of the most remarkable takeaways from this study is the unexpected finding t
 Moreover, the study suggests that my moods, as they fluctuate, do not appear to significantly influence the number of hours I allocate to personal studies. This shows that I can maintain a consistent level of productivity irrespective of mood variations. This is also important as it implies that I can still make substantial progress even on days when my mood is less than optimal.
 
 \newpage
-# Reflection <!-- do not delete, but feel free to rename -->
+# Reflection <! -->
 <!--
-Write a reflection here in paragraph form (i.e., not bullet-pointed or numbered). (About 2-4 paragraphs) 
-
-In particular, address:
-
-* What difficulties in the data collection and analysis process did you encounter? Identify two of your
-main hurdles in gathering accurate data.
-
-* What implications does that have for future data collection and/or analysis projects?
-
-* How much data do you think you’d need to collect in order to answer your question(s) of interest?
-Would it be hard to collect that data? Why or why not?
-
-* As someone who provides data, what expectations do you have when you give your data (e.g. to
-Facebook, Google, MapMyRun, etc.)?
-
-* As someone who analyzes others’ data, what ethical responsibilities do you have?
 -->
 
 During the data collection and analysis process for this project, I encountered a few challenges. Firstly, maintaining consistency in mood ratings posed a challenge. While I set reminders to record my mood at four-hour intervals, there were instances when external factors, such as distractions or time constraints, interfered with timely mood assessments. This inconsistency may have introduced bias into the data, impacting the validity of mood-related conclusions. Secondly, accurately measuring the time spent on personal studies was difficult. Although I used timers during study sessions, there were instances where I unintentionally paused or forgot to stop the timer, leading to overestimations or underestimations of study durations. Such inaccuracies could affect the assessment of the relationship between study time and productivity.
